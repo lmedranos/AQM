@@ -6,7 +6,7 @@ This github repository aims at providing user guide for the use of AQM dataset.
 ![Generation procedure](Extra/scheme.png)
 
 ## AQM dataset files
-The dataset files can be downloaded from the ZENODO repository under the link: https://zenodo.org/records/10208010
+The dataset files can be downloaded from the ZENODO repository.
 
 [![ZENODO](https://zenodo.org/badge/DOI/10.5281/zenodo.10208010.svg)](https://doi.org/10.5281/zenodo.10208010)
 
