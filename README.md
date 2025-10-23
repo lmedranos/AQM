@@ -8,7 +8,7 @@ This github repository aims at providing user guide for the use of AQM dataset.
 ## AQM dataset files
 The dataset files can be downloaded from the ZENODO repository.
 
-[![ZENODO](https://zenodo.org/badge/DOI/10.5281/zenodo.10208010.svg)](https://doi.org/10.5281/zenodo.10208010)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10208010.svg)](https://doi.org/10.5281/zenodo.10208010)
 
 ## Delta learning project
 We have reported initial results demonstrating that a machine learning model trained to learn the difference between the values of properties in implicit water (P-sol) and those in the gas phase (P-gas) can predict solvated-phase properties with greater precision than a model trained directly on P-sol values. More information can be found in the `./DeltaNN/` folder.
